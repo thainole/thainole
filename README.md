@@ -5,7 +5,7 @@
 
 🙋🏻‍♀️ Tengo 26 años y vivo en Lima, Perú.
 
-👩‍💻 Soy **Front End Developer** en SparxWorks (Perú) y .
+👩‍💻 Soy **Front End Developer** en SparxWorks (Perú).
 
 👩‍🎓 Estudié **Desarrollo Front End** en el bootcamp de Laboratoria, y tengo un background en **Administración de Turismo**.
 
