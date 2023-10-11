@@ -3,11 +3,11 @@
 
 # Hola! Soy Thais Illescas
 
-🙋🏻‍♀️ Tengo 24 años y vivo en Lima, Perú.
+🙋🏻‍♀️ Tengo 26 años y vivo en Lima, Perú.
 
-👩‍💻 Soy **Front End Developer** egresada del bootcamp de Laboratoria con conocimientos en Back End.
+👩‍💻 Soy **Front End Developer** en SparxWorks (Perú) y .
 
-👩‍🎓 Estudié la carrera de **Administración de Turismo** en la UNMSM y este año pude obtener mi título de licenciada.
+👩‍🎓 Estudié **Desarrollo Front End** en el bootcamp de Laboratoria, y tengo un background en **Administración de Turismo**.
 
 
 💻 Dentro de las **tecnologías** que manejo, se encuentran:
